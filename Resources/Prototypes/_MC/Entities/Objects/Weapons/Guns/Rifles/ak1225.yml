@@ -129,7 +129,7 @@
   - type: Projectile
     damage:
       groups:
-        Brute: 10
+        Brute: 30
   - type: CMArmorPiercing
     amount: 20
   - type: MCXenoSunderDamageOnHit
